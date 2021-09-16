@@ -36,7 +36,7 @@ In this phase I freeze all layers except 5 neurons behind because that's the tar
 
 In this phase I unfreeze all layers. I give a learning rate 1e-05 and early stop patience 6. I do this so that the model can learn more and not damage the pretrained model.
 
-![fine_tuning](https://github.com/AfrizalSeptiansyah/Panorama-Detection/blob/main/asset/fine_tuning.png?raw=true)
+![fine_tuning](https://github.com/AfrizalSeptiansyah/Panorama-Detection/blob/main/asset/fine tuning.png?raw=true)
 
 
 ## Finaly Sanity Check 
